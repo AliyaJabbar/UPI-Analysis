@@ -9,7 +9,7 @@ This project presents an **interactive Power BI dashboard** that visualizes and 
 
 The dataset includes the following fields:
 
-- **Transaction Info:** `transtinid`, `transdate`, `transactiontime`, `transactiontype`, `status`, `amount`, `currency`
+- **Transaction Info:** `transtionid`, `transtiondate`, `transactiontime`, `transactiontype`, `status`, `amount`, `currency`
 - **Bank Info:** `banknamesent`, `banknamerecceived`, `remaining balance`
 - **User Info:** `gender`, `city`, `customerage`, `Agegroup`, `customerAccountno`
 - **Merchant Info:** `merchantname`, `merchantaccountno`, `purpose`
@@ -79,16 +79,4 @@ The dataset includes the following fields:
 4. Explore the dashboard using slicers and navigation bar
 
 ---
-
-## 📬 Contact
-
-**Aliya Jabbar**  
-📫 [Your Email or LinkedIn]  
-🌐 [Portfolio or GitHub Profile Link]  
-
----
-
-## ⭐️ Acknowledgements
-
-Thanks to all open-source tools and datasets used to create this project.
 
